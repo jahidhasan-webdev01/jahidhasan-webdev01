@@ -58,22 +58,6 @@ Become a **Full Stack Developer** and contribute to impactful products.
 
 # 🚀 Projects
 
-## 🔹 Digitools Platform
-
-Modern **digital tools marketplace** built with React, Tailwind CSS, and DaisyUI.
-
-Features:
-
-* Product listing
-* Interactive cart system
-* Responsive design
-* Component-based architecture
-
-🔗 Live: https://digitools-platform01.netlify.app/
-📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform
-
----
-
 ## 🔹 Influencer Gear
 
 An **e-commerce style frontend project** for influencer equipment.
@@ -89,6 +73,22 @@ Features:
 
 🔗 Live: https://influencer-gears01.netlify.app/
 📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears
+
+---
+
+## 🔹 Digitools Platform
+
+Modern **digital tools marketplace** built with React, Tailwind CSS, and DaisyUI.
+
+Features:
+
+* Product listing
+* Interactive cart system
+* Responsive design
+* Component-based architecture
+
+🔗 Live: https://digitools-platform01.netlify.app/
+📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform
 
 ---
 
