@@ -1,21 +1,36 @@
 # 👋 Hi, I'm Jahid Hasan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Learning+Next.js;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0ABAB5&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Learning+Next.js;Building+Modern+Web+Applications" />
 </p>
 
-💻 Passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
-
-🚀 Currently learning **Next.js** to build faster and scalable web apps and move toward **Full Stack Development**.
+<p align="center">
+<a href="https://www.linkedin.com/in/jahid-hasan-webdev01/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/jahidhasan-webdev01">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-* 🔭 Currently building **React projects**
-* 🌱 Learning **Next.js**
-* 🎯 Goal: Become a **Full Stack Developer**
-* 💡 Interested in **modern UI, performance, and scalable frontend architecture**
+💻 Passionate **Frontend Developer** who enjoys building modern, responsive, and user-friendly web applications.
+
+🚀 Currently learning **Next.js** to build faster and scalable applications.
+
+### 🔭 Current Focus
+
+* React Development
+* Learning Next.js
+* Improving UI & UX skills
+* Building real-world projects
+
+### 🎯 Goal
+
+Become a **Full Stack Developer** and contribute to impactful products.
 
 ---
 
@@ -45,7 +60,14 @@
 
 ## 🔹 Digitools Platform
 
-Modern digital tools marketplace built with **React, Tailwind CSS, and DaisyUI**
+Modern **digital tools marketplace** built with React, Tailwind CSS, and DaisyUI.
+
+Features:
+
+* Product listing
+* Interactive cart system
+* Responsive design
+* Component-based architecture
 
 🔗 Live: https://digitools-platform01.netlify.app/
 📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform
@@ -54,7 +76,16 @@ Modern digital tools marketplace built with **React, Tailwind CSS, and DaisyUI**
 
 ## 🔹 Influencer Gear
 
-E-commerce style frontend project with search, filtering and cart system.
+An **e-commerce style frontend project** for influencer equipment.
+
+Features:
+
+* Product search
+* Cart functionality
+* Context API state management
+* LocalStorage for cart
+* SessionStorage for filter data
+* Fully responsive design
 
 🔗 Live: https://influencer-gears01.netlify.app/
 📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears
@@ -64,7 +95,7 @@ E-commerce style frontend project with search, filtering and cart system.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jahidhasan-webdev01&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=jahidhasan-webdev01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,25 +103,34 @@ E-commerce style frontend project with search, filtering and cart system.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=jahidhasan-webdev01&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=jahidhasan-webdev01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan-webdev01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jahidhasan-webdev01&style=for-the-badge" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/jahid-hasan-webdev01/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/jahidhasan-webdev01">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/jahid-hasan-webdev01/
+* 💻 GitHub: https://github.com/jahidhasan-webdev01
 
 ---
 
 <p align="center">
-✨ Always learning • Always building • Always improving ✨
+✨ Always Learning • Always Building • Always Improving ✨
 </p>
