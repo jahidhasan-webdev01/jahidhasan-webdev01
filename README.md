@@ -58,6 +58,54 @@ Become a **Full Stack Developer** and contribute to impactful products.
 
 # 🚀 Projects
 
+🔹 QurbaniHat
+
+A modern Next.js web app for browsing and booking Qurbani animals.
+
+Features:
+
+Authentication (Email/Password & Google)
+Protected routes
+Animal details & sorting
+Responsive UI with animations
+Toast notifications
+
+🔗 Live: https://qurbani-hat-nu.vercel.app
+
+📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat
+
+🔹 The Dragon News
+
+A responsive NextJS news application that delivers real-time articles across various topics.
+
+Features:
+
+Real-time news updates
+Better auth authentication
+Personalized user access
+Fully responsive design
+Smooth user experience across devices
+
+🔗 Live: https://the-dragon-news-tawny.vercel.app/
+
+📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news
+
+🔹 KeenKeeper
+
+A modern friendship management app to help users stay connected and track relationships.
+
+Features:
+
+Interaction tracking
+Communication goals
+Timeline visualization
+Relationship analytics
+Clean and responsive UI
+
+🔗 Live: https://keen-keeper-sage-one.vercel.app/
+
+📦 Repo: https://github.com/jahidhasan-webdev01/keen-keeper
+
 ## 🔹 Influencer Gear
 
 An **e-commerce style frontend project** for influencer equipment.
