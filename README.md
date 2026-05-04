@@ -58,7 +58,7 @@ Become a **Full Stack Developer** and contribute to impactful products.
 
 # 🚀 Projects
 
-🔹 QurbaniHat
+## 🔹 QurbaniHat
 
 A modern Next.js web app for browsing and booking Qurbani animals.
 
@@ -74,7 +74,7 @@ Toast notifications
 
 📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat
 
-🔹 The Dragon News
+## 🔹 The Dragon News
 
 A responsive NextJS news application that delivers real-time articles across various topics.
 
@@ -90,7 +90,7 @@ Smooth user experience across devices
 
 📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news
 
-🔹 KeenKeeper
+## 🔹 KeenKeeper
 
 A modern friendship management app to help users stay connected and track relationships.
 
