@@ -23,7 +23,7 @@
 
 ### 🔭 Current Focus
 
-* React Development
+* Backend Development
 * Learning Next.js
 * Improving UI & UX skills
 * Building real-world projects
