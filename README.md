@@ -8,6 +8,11 @@
 <a href="https://www.linkedin.com/in/jahid-hasan-webdev01/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="https://jahidhasan-webdev01.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0ABAB5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/jahidhasan-webdev01">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
@@ -23,10 +28,10 @@
 
 ### 🔭 Current Focus
 
-* Backend Development
-* Learning Next.js
-* Improving UI & UX skills
-* Building real-world projects
+- Backend Development  
+- Learning Next.js  
+- Improving UI & UX skills  
+- Building real-world projects  
 
 ### 🎯 Goal
 
@@ -39,7 +44,7 @@ Become a **Full Stack Developer** and contribute to impactful products.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
 ### Frontend
@@ -58,85 +63,96 @@ Become a **Full Stack Developer** and contribute to impactful products.
 
 # 🚀 Projects
 
+## 🔹 DocAppoint (Doctor Appointment Manager)
+
+A full-stack doctor appointment booking system where users can browse doctors, book appointments, and manage their profile.
+
+**Features:**
+- Authentication (Email/Password & Google)
+- Doctor browsing & appointment booking
+- User dashboard for managing bookings
+- Reviews & profile management
+- Responsive modern UI
+
+---
+
 ## 🔹 QurbaniHat
 
 A modern Next.js web app for browsing and booking Qurbani animals.
 
-Features:
+**Features:**
+- Authentication system
+- Protected routes
+- Animal details & sorting
+- Responsive UI with animations
+- Toast notifications
 
-Authentication (Email/Password & Google)
-Protected routes
-Animal details & sorting
-Responsive UI with animations
-Toast notifications
+🔗 Live: https://qurbani-hat-nu.vercel.app  
+📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat  
 
-🔗 Live: https://qurbani-hat-nu.vercel.app
-
-📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat
+---
 
 ## 🔹 The Dragon News
 
 A responsive NextJS news application that delivers real-time articles across various topics.
 
-Features:
+**Features:**
+- Real-time news updates
+- Better auth authentication
+- Personalized user access
+- Fully responsive design
+- Smooth UX across devices
 
-Real-time news updates
-Better auth authentication
-Personalized user access
-Fully responsive design
-Smooth user experience across devices
+🔗 Live: https://the-dragon-news-tawny.vercel.app/  
+📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news  
 
-🔗 Live: https://the-dragon-news-tawny.vercel.app/
-
-📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news
+---
 
 ## 🔹 KeenKeeper
 
-A modern friendship management app to help users stay connected and track relationships.
+A friendship management app to help users track relationships and stay connected.
 
-Features:
+**Features:**
+- Interaction tracking
+- Communication goals
+- Timeline visualization
+- Relationship analytics
+- Clean responsive UI
 
-Interaction tracking
-Communication goals
-Timeline visualization
-Relationship analytics
-Clean and responsive UI
+🔗 Live: https://keen-keeper-sage-one.vercel.app/  
+📦 Repo: https://github.com/jahidhasan-webdev01/keen-keeper  
 
-🔗 Live: https://keen-keeper-sage-one.vercel.app/
-
-📦 Repo: https://github.com/jahidhasan-webdev01/keen-keeper
+---
 
 ## 🔹 Influencer Gear
 
-An **e-commerce style frontend project** for influencer equipment.
+An e-commerce style frontend project for influencer equipment.
 
-Features:
+**Features:**
+- Product search
+- Cart functionality
+- Context API state management
+- LocalStorage cart
+- SessionStorage filters
+- Responsive UI
 
-* Product search
-* Cart functionality
-* Context API state management
-* LocalStorage for cart
-* SessionStorage for filter data
-* Fully responsive design
-
-🔗 Live: https://influencer-gears01.netlify.app/
-📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears
+🔗 Live: https://influencer-gears01.netlify.app/  
+📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears  
 
 ---
 
 ## 🔹 Digitools Platform
 
-Modern **digital tools marketplace** built with React, Tailwind CSS, and DaisyUI.
+A modern digital tools marketplace built with React & Tailwind CSS.
 
-Features:
+**Features:**
+- Product listing
+- Cart system
+- Responsive design
+- Component-based architecture
 
-* Product listing
-* Interactive cart system
-* Responsive design
-* Component-based architecture
-
-🔗 Live: https://digitools-platform01.netlify.app/
-📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform
+🔗 Live: https://digitools-platform01.netlify.app/  
+📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform  
 
 ---
 
@@ -174,8 +190,9 @@ Features:
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jahid-hasan-webdev01/
-* 💻 GitHub: https://github.com/jahidhasan-webdev01
+- 💼 LinkedIn: https://www.linkedin.com/in/jahid-hasan-webdev01/  
+- 🌐 Portfolio: https://jahidhasan-webdev01.vercel.app/  
+- 💻 GitHub: https://github.com/jahidhasan-webdev01  
 
 ---
 
