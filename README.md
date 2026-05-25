@@ -74,8 +74,8 @@ A full-stack doctor appointment booking system where users can browse doctors, b
 - Reviews & profile management
 - Responsive modern UI
 
-🔗 Live: https://doc-appoint-client-sigma.vercel.app
-📦 Client: https://github.com/jahidhasan-webdev01/doc-appoint-client
+🔗 Live: https://doc-appoint-client-sigma.vercel.app  
+📦 Repo: https://github.com/jahidhasan-webdev01/doc-appoint-client
 ⚙️ Server: https://github.com/jahidhasan-webdev01/doc-appoint-server
 ---
 
