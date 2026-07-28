@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Jahid Hasan Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Jahid Hasan
 
 <p align="center">
@@ -16,6 +20,10 @@
 <a href="https://github.com/jahidhasan-webdev01">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="mailto:jahidhasan.webdev01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -24,18 +32,21 @@
 
 💻 Passionate **Frontend Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-🚀 Currently learning **Next.js** to build faster and scalable applications.
+🚀 Currently learning **Next.js** and backend development.
 
-### 🔭 Current Focus
+🎯 **Career Goal:** Become a Full Stack Developer and contribute to impactful products.
 
-- Backend Development  
-- Learning Next.js  
-- Improving UI & UX skills  
-- Building real-world projects  
+---
 
-### 🎯 Goal
+# 📬 Contact Information
 
-Become a **Full Stack Developer** and contribute to impactful products.
+- 👤 **Name:** Jahid Hasan
+- 💼 **Role:** Frontend Developer
+- 📧 **Email:** jahidhasan.webdev01@gmail.com
+- 📱 **Phone:** +880 1632-205584
+- 🌐 **Portfolio:** https://jahidhasan-webdev01.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jahid-hasan-webdev01/
+- 💻 **GitHub:** https://github.com/jahidhasan-webdev01
 
 ---
 
@@ -44,13 +55,13 @@ Become a **Full Stack Developer** and contribute to impactful products.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Tools
@@ -61,108 +72,72 @@ Become a **Full Stack Developer** and contribute to impactful products.
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🔹 DocAppoint (Doctor Appointment Manager)
-
-A full-stack doctor appointment booking system where users can browse doctors, book appointments, and manage their profile.
-
-**Features:**
+## 🔹 DocAppoint
 - Authentication (Email/Password & Google)
-- Doctor browsing & appointment booking
-- User dashboard for managing bookings
-- Reviews & profile management
-- Responsive modern UI
+- Appointment booking
+- User dashboard
+- Responsive UI
 
 🔗 Live: https://doc-appoint-client-sigma.vercel.app  
-📦 Repo: https://github.com/jahidhasan-webdev01/doc-appoint-client
+📦 Client: https://github.com/jahidhasan-webdev01/doc-appoint-client  
 ⚙️ Server: https://github.com/jahidhasan-webdev01/doc-appoint-server
+
 ---
 
 ## 🔹 QurbaniHat
 
-A modern Next.js web app for browsing and booking Qurbani animals.
-
-**Features:**
-- Authentication system
-- Protected routes
-- Animal details & sorting
-- Responsive UI with animations
-- Toast notifications
+- Next.js
+- Protected Routes
+- Authentication
+- Responsive Design
 
 🔗 Live: https://qurbani-hat-nu.vercel.app  
-📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat  
+📦 Repo: https://github.com/jahidhasan-webdev01/qurbani-hat
 
 ---
 
 ## 🔹 The Dragon News
 
-A responsive NextJS news application that delivers real-time articles across various topics.
-
-**Features:**
-- Real-time news updates
-- Better auth authentication
-- Personalized user access
-- Fully responsive design
-- Smooth UX across devices
+- Next.js
+- Authentication
+- Responsive UI
 
 🔗 Live: https://the-dragon-news-tawny.vercel.app/  
-📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news  
+📦 Repo: https://github.com/jahidhasan-webdev01/the-dragon-news
 
 ---
 
 ## 🔹 KeenKeeper
 
-A friendship management app to help users track relationships and stay connected.
-
-**Features:**
-- Interaction tracking
-- Communication goals
-- Timeline visualization
-- Relationship analytics
-- Clean responsive UI
+- Friendship Management
+- Timeline
+- Analytics
 
 🔗 Live: https://keen-keeper-sage-one.vercel.app/  
-📦 Repo: https://github.com/jahidhasan-webdev01/keen-keeper  
+📦 Repo: https://github.com/jahidhasan-webdev01/keen-keeper
 
 ---
 
 ## 🔹 Influencer Gear
 
-An e-commerce style frontend project for influencer equipment.
-
-**Features:**
-- Product search
-- Cart functionality
-- Context API state management
-- LocalStorage cart
-- SessionStorage filters
-- Responsive UI
-
 🔗 Live: https://influencer-gears01.netlify.app/  
-📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears  
+📦 Repo: https://github.com/jahidhasan-webdev01/influencer-gears
 
 ---
 
 ## 🔹 Digitools Platform
 
-A modern digital tools marketplace built with React & Tailwind CSS.
-
-**Features:**
-- Product listing
-- Cart system
-- Responsive design
-- Component-based architecture
-
 🔗 Live: https://digitools-platform01.netlify.app/  
-📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform  
+📦 Repo: https://github.com/jahidhasan-webdev01/digitools-platform
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jahidhasan-webdev01&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jahidhasan-webdev01&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -170,7 +145,7 @@ A modern digital tools marketplace built with React & Tailwind CSS.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=jahidhasan-webdev01&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=jahidhasan-webdev01&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -178,7 +153,7 @@ A modern digital tools marketplace built with React & Tailwind CSS.
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan-webdev01&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan-webdev01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -186,16 +161,8 @@ A modern digital tools marketplace built with React & Tailwind CSS.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jahidhasan-webdev01&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jahidhasan-webdev01&style=for-the-badge"/>
 </p>
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/jahid-hasan-webdev01/  
-- 🌐 Portfolio: https://jahidhasan-webdev01.vercel.app/  
-- 💻 GitHub: https://github.com/jahidhasan-webdev01  
 
 ---
 
