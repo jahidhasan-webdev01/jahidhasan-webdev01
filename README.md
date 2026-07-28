@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Jahid Hasan Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Jahid Hasan Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Jahid Hasan
